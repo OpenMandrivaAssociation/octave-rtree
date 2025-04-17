@@ -9,7 +9,7 @@ Group:		Sciences/Mathematics
 #Url:		https://packages.octave.org/rtree/
 Url:		https://gitlab.com/jjg/librtree-octave
 #Source0:	https://gitlab.com/jjg/librtree-octave/-/archive/v%{version}/librtree-octave-v%{version}.tar.bz2
-Source0:	https://gitlab.com/jjg/librtree-octave/-/package_files/121124775/download/
+Source0:	https://gitlab.com/jjg/librtree-octave/-/package_files/121124775/download
 
 BuildRequires:  octave-devel >= 6.0.0
 BuildRequires:  pkgconfig(jansson)
